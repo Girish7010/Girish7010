@@ -1,6 +1,5 @@
-💫 About Me:
+#💫 About Me:
 DevOps Engineer with hands-on experience in CI/CD, cloud infrastructure, and automation using tools like AWS, Terraform, and Python.<br>Passionate about building scalable systems and improving deployment processes in a simple and efficient way.<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/girish-burade/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Girish_Burade) 
