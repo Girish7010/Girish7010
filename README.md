@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 DevOps Engineer with hands-on experience in CI/CD, cloud infrastructure, and automation using tools like AWS, Terraform, and Python.<br>Passionate about building scalable systems and improving deployment processes in a simple and efficient way.<br>
 
 
