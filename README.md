@@ -75,6 +75,15 @@ I build and run **secure, cost-efficient, automated cloud infrastructure** on AW
 
 ---
 
+### 🏆 GitHub Achievements
+
+<p align="left">
+  <a href="https://github.com/Girish7010?tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" title="Pull Shark" /></a>
+  <a href="https://github.com/Girish7010?tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="90" alt="YOLO" title="YOLO" /></a>
+</p>
+
+---
+
 ### 🤝 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://girishburade.pages.dev/)
